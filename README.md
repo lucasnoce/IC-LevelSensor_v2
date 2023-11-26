@@ -11,7 +11,7 @@ The device is specifically designed for deployment in remote environments and op
 ## Designed PCB
 The following image shows the designed PCB layout. It incorporates the SMT32, SHT31, SIM7020E and its adjacent circuitry onto the layout, only leaving the AJ-SR04M as an external module. The PCB also features a selectable current sensing shunt resistor, some ESD protection and can be powered either by 1.5V AAA batteries or Micro USB type B.
 
-<img src="https://github.com/lucasnoce/IC-LevelSensor_v2/blob/main/PCB_Design/LevelSensor_v2.0/Images/3D_PCB.jpg" width=80% height=80%>
+<img src="https://github.com/lucasnoce/IC-LevelSensor_v2/blob/main/PCB_Design/LevelSensor_v2.0/Images/3D_PCB.jpg" width=100% height=100%>
 
 ## Software
 Still under development, all drivers and functionalities will be implemented from scratch through STM32CubeIDE.
